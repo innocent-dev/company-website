@@ -70,10 +70,7 @@ body{
 	padding:0px 16px;
 }
 
-/* this rules only apply when the screen is 700px or more*/
-@media screen and (min-width: 700px;)
-{
-/*Year -> 2021*/
+@media screen and (min-width: 700px){
 	.nav ul{
 		text-align:right; 
 	}
