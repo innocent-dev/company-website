@@ -72,7 +72,8 @@ body{
 
 @media screen and (min-width: 700px)
 {
-	/* this rules only apply when the screen is 700px or more*/
+/* this rules only apply when the screen is 700px or more*/
+/*Year -> 2021*/
 	.nav ul{
 		text-align:right; 
 	}
