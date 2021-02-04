@@ -70,9 +70,9 @@ body{
 	padding:0px 16px;
 }
 
+/* this rules only apply when the screen is 700px or more*/
 @media screen and (min-width: 700px;)
 {
-	/* this rules only apply when the screen is 700px or more*/
 	.nav ul{
 		text-align:right; 
 	}
